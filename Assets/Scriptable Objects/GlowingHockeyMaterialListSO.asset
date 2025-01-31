@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c543e522e573ddb4e9429a5dd08afbed, type: 3}
+  m_Name: GlowingHockeyMaterialListSO
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: a9f75c235df117146922203bf6675cbd, type: 2}
+  - {fileID: 2100000, guid: e5fd05484716e3744a50c38e2bd7b5a8, type: 2}
+  - {fileID: 2100000, guid: 53d8b7b780df68841a8d74449e3c1140, type: 2}

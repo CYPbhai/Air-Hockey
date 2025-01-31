@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811e11b4021426b4ea747edb3e6b963f, type: 3}
+  m_Name: PuckMaterialListSO
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: 64d4b7e9324fc914aa3be166d92036a1, type: 2}
+  - {fileID: 2100000, guid: d5bb61dd2ed6703418fd9eeec7065d52, type: 2}
+  - {fileID: 2100000, guid: 74da81b652a2da24ab9e150a31171fb0, type: 2}

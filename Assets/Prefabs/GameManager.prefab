@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4168846462713303825
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7567120595205186306}
+  - component: {fileID: 2681754418154384835}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7567120595205186306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4168846462713303825}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2681754418154384835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4168846462713303825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff87794f6f756cc42af9c94137bad963, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hockeyMaterialListSO: {fileID: 11400000, guid: 0a4236ce25679644e8814af48354c7b6,
+    type: 2}
+  puckMaterialListSO: {fileID: 11400000, guid: 95f91ce5e82da5647b65eb37d232db80, type: 2}
+  glowingHockeyMaterialListSO: {fileID: 11400000, guid: 2d46139f565d1804abe385f7e02ebc9a,
+    type: 2}
+  glowingPuckMaterialListSO: {fileID: 11400000, guid: ba4dd13ab71ef454f888623909de9704,
+    type: 2}
+  hockeyPrefab: {fileID: 819168762091719898, guid: e718f3eb508cff1439c99c46a44609cf,
+    type: 3}
+  puckPrefab: {fileID: 3907824509800316822, guid: 37ed083b5bebb51439a5c0092251c37e,
+    type: 3}
+  player1MaterialID: 0
+  player2MaterialID: 0
+  puckMaterialID: 0
+  hockey1DefualtPosition: {x: 0, y: 0, z: -3}
+  hockey2DefualtPosition: {x: 0, y: 0, z: 3}
+  puckDefualtPosition: {x: 0, y: 0, z: 0}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3ee6c1c9c49f84bb4cc07a6f45bd37, type: 3}
+  m_Name: HockeyMaterialListSO
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: 871f38076231e1e45b3d2a7bfeb0162d, type: 2}
+  - {fileID: 2100000, guid: 0cf2b3ccdb40b36469200081ec29cabc, type: 2}
+  - {fileID: 2100000, guid: ce1e7826469c82a41a7f12fd553fbd97, type: 2}
